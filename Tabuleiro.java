@@ -1,4 +1,4 @@
-public class tabuleiro {
+public class Tabuleiro {
     public static void main(String[] args) {
         int linhas = 8;
         int colunas = 9;
