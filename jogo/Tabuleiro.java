@@ -1,7 +1,7 @@
 public class Tabuleiro {
     public static void main(String[] args) {
         int[][] tabuleiro = new int[8][8];
-        
+
         tabuleiro[0][0] = 1;
         tabuleiro[2][3] = 1;
         tabuleiro[7][7] = 1;
